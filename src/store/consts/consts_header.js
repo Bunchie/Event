@@ -1,0 +1,1 @@
+export const header = {name: "МОЙ САЙТ"};
